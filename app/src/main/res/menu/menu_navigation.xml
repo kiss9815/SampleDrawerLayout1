@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navi_menu_main"
+        android:icon="@android:drawable/ic_input_get"
+        android:title="Main"
+        android:orderInCategory="100" />
+    <item android:id="@+id/navi_menu_first"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="First"
+        android:orderInCategory="101" />
+    <item android:id="@+id/navi_menu_second"
+        android:icon="@android:drawable/ic_input_delete"
+        android:title="Second"
+        android:orderInCategory="102" />
+</menu>
